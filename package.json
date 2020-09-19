@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2",
+    "supertest": "^4.0.2"
+  }
+}
