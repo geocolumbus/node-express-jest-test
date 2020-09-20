@@ -1,4 +1,4 @@
-# Node Express Unit Testings
+# Node Express Unit Test Example
 
 ## Usage
 
